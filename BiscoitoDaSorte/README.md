@@ -4,7 +4,7 @@
 
 This project was developed using the following technologies:
 
-- [ReactNative](https://reactjs.org)
+- [ReactNative](https://reactnative.dev/)
 
 
 ## 🚀 Getting started
@@ -31,10 +31,10 @@ $ npx react-native run-android
 You can view the project layout :
 
 <p align="center">
-  <img alt="Letmeask" src=".github/biscoito.png" >
+  <img alt="Letmeask" src=".github/biscoito.png" width='260px' heigth='660px'>
 </p>
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/biscoitoAberto.png" />
+    <img alt="Letmeask" title="Letmeask" src=".github/biscoitoAberto.png" width='260px' heigth='660px'/>
 </h1>
 
 <br>
